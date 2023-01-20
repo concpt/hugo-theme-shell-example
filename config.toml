@@ -15,8 +15,11 @@ theme = "hugo-theme-shell"
     commandDelay = 50
     
     description = """
-    Hello, I run one of the biggest family of Tor Relays responsible for over 1000MB/s of traffic.
-    If there is any questions or complaints, Please Contact Me:
+    Hello, I run one of the biggest family of Tor Relays.
+    Responsible for over 1000MB/s of traffic.
+    
+    If there is any questions or complaints, 
+    Please Contact Me:
     Email: admin@prsv.ch
     
     

@@ -1,17 +1,39 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://prsv.ch/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Welcome"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "monokai"
+    schema = "gruvbox_dark"
+    userName = "admin"
+    pcName = "prsv"
+    workDir = "home"
+    profile = "profile.txt"
+    ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+    stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+    commandDelay = 50
+    
+    description = """
+    Hello, I run one of the biggest family of Tor Relays.
+    Responsible for over 1000MB/s of traffic.
+    
+    If there is any questions or complaints, 
+    Please Contact Me:
+    Email: admin@prsv.ch
+    
+    
+    """
+
+
+
+
+
+
+
 
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Tor Relays", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"]
     ]

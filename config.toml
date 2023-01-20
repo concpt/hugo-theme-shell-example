@@ -10,10 +10,16 @@ theme = "hugo-theme-shell"
     pcName = "prsv"
     workDir = "home"
     profile = "profile.txt"
+    ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+    stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+    commandDelay = 50
+    
     description = """
     Hello, I run one of the biggest family of Tor Relays responsible for over 1000MB/s of traffic.
     If there is any questions or complaints, Please Contact Me:
     Email: admin@prsv.ch
+    
+    
     """
 
 

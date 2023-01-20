@@ -6,6 +6,22 @@ theme = "hugo-theme-shell"
 [Params]
     [Params.Terminal]
     schema = "gruvbox_dark"
+    userName = "admin"
+    pcName = "prsv"
+    workDir = "home"
+    profile = "profile.txt"
+    description = """
+    Hello, I run one of the biggest family of Tor Relays responsible for over 1000MB/s of traffic.
+    If there is any questions or complaints, Please Contact Me:
+    Email: admin@prsv.ch
+    """
+
+
+
+
+
+
+
 
     [Params.Tree]
     use = true

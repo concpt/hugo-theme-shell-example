@@ -35,8 +35,5 @@ theme = "hugo-theme-shell"
     [Params.Tree]
     use = true
     files = [
-        ["Tor Relays", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Tor Relays", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"]
     ]

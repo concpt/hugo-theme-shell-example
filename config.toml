@@ -1,16 +1,16 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://prsv.ch/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Welcome"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "monokai"
+    schema = "gruvbox_dark"
 
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
+        ["Tor Relays", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"],
         ["Python", "https://www.example.com/"],
         ["Go", "/works/go.md"],
         ["Hugo", "/works/hugo.md"]

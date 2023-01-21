@@ -4,6 +4,9 @@ date: 2023-01-21T00:28:42Z
 draft: false
 ---
 
+All servers are fully unmetered.
+
+
 | IP                 | Provider          | Uplink        | Virtual/Dedicated   | Non-Exit/Exit |
 | -------------------| ------------------| --------------| --------------------| ------------- |
 | 2.56.247.40        | Sapinet SAS       | 10Gbit        | Virtual             | Non-Exit      |

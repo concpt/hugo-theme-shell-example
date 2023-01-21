@@ -3,7 +3,7 @@ title: "Tor Relay Server Spec List"
 date: 2023-01-21T00:28:42Z
 draft: false
 ---
-<font size= "1">
+
 | IP                 | Provider          | Uplink        | Virtual/Dedicated   | Non-Exit/Exit |
 | -------------------| ------------------| --------------| --------------------| ------------- |
 | 2.56.247.40        | Sapinet SAS       | 10Gbit        | Virtual             | Non-Exit      |
@@ -47,4 +47,3 @@ draft: false
 | 203.28.246.123     | Vanwatech         | 1Gbit         | Virtual             | Non-Exit      |
 | 203.28.246.141     | Vanwatech         | 1Gbit         | Virtual             | Exit          |
 | 213.238.182.114    | Markahost         | 1Gbit         | Virtual             | Non-Exit      |
-</font>

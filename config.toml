@@ -36,6 +36,6 @@ theme = "hugo-theme-shell"
     use = true
     files = [
         ["Tor Relays", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"],
-        ["Relay Server Spec List", "post.md"]
+        ["Relay Server Spec List", "works/post.md"]
 
     ]

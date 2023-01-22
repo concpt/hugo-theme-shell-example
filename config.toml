@@ -36,6 +36,6 @@ theme = "hugo-theme-shell"
     use = true
     files = [
         ["Tor Relay Metrics", "https://yui.cat/family/56F6103EA47A895E920394CBD31E68905D45CF4F/"],
-        ["Tor Relay Specifications", "works/post.md"]
+        ["Tor Relay Specifications", "works/post.md"],
         ["Fingerprints", ".well-known/tor-relay/rsa-fingerprint.txt"]
     ]
